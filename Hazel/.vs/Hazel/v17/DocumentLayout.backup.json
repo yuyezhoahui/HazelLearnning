@@ -3,22 +3,48 @@
   "WorkspaceRootPath": "D:\\Engine\\HazelLearnning\\Hazel\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F2C5337D-39C3-47EA-9C3E-FDBA4D57C949}|SandBox\\SandBox.vcxproj|D:\\Engine\\HazelLearnning\\Hazel\\SandBox\\src\\Application.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{F2C5337D-39C3-47EA-9C3E-FDBA4D57C949}|SandBox\\SandBox.vcxproj|solutionrelative:SandBox\\src\\Application.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{9E1A28D9-46F3-4312-A693-885D28D45F8D}|Hazel\\Hazel.vcxproj|D:\\Engine\\HazelLearnning\\Hazel\\Hazel\\src\\Hazel\\EntryPoint.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9E1A28D9-46F3-4312-A693-885D28D45F8D}|Hazel\\Hazel.vcxproj|solutionrelative:Hazel\\src\\Hazel\\EntryPoint.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9E1A28D9-46F3-4312-A693-885D28D45F8D}|Hazel\\Hazel.vcxproj|D:\\Engine\\HazelLearnning\\Hazel\\Hazel\\src\\Test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{9E1A28D9-46F3-4312-A693-885D28D45F8D}|Hazel\\Hazel.vcxproj|solutionrelative:Hazel\\src\\Test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{9E1A28D9-46F3-4312-A693-885D28D45F8D}|Hazel\\Hazel.vcxproj|D:\\Engine\\HazelLearnning\\Hazel\\Hazel\\src\\Hazel.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9E1A28D9-46F3-4312-A693-885D28D45F8D}|Hazel\\Hazel.vcxproj|solutionrelative:Hazel\\src\\Hazel.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9E1A28D9-46F3-4312-A693-885D28D45F8D}|Hazel\\Hazel.vcxproj|D:\\Engine\\HazelLearnning\\Hazel\\Hazel\\src\\Test.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{9E1A28D9-46F3-4312-A693-885D28D45F8D}|Hazel\\Hazel.vcxproj|solutionrelative:Hazel\\src\\Test.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{F2C5337D-39C3-47EA-9C3E-FDBA4D57C949}|SandBox\\SandBox.vcxproj|D:\\Engine\\HazelLearnning\\Hazel\\SandBox\\src\\SandboxApp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F2C5337D-39C3-47EA-9C3E-FDBA4D57C949}|SandBox\\SandBox.vcxproj|solutionrelative:SandBox\\src\\SandboxApp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E1A28D9-46F3-4312-A693-885D28D45F8D}|Hazel\\Hazel.vcxproj|D:\\Engine\\HazelLearnning\\Hazel\\Hazel\\src\\Hazel\\Application.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9E1A28D9-46F3-4312-A693-885D28D45F8D}|Hazel\\Hazel.vcxproj|solutionrelative:Hazel\\src\\Hazel\\Application.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E1A28D9-46F3-4312-A693-885D28D45F8D}|Hazel\\Hazel.vcxproj|D:\\Engine\\HazelLearnning\\Hazel\\Hazel\\src\\Hazel\\Application.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9E1A28D9-46F3-4312-A693-885D28D45F8D}|Hazel\\Hazel.vcxproj|solutionrelative:Hazel\\src\\Hazel\\Application.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E1A28D9-46F3-4312-A693-885D28D45F8D}|Hazel\\Hazel.vcxproj|D:\\Engine\\HazelLearnning\\Hazel\\Hazel\\src\\Hazel\\Core.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9E1A28D9-46F3-4312-A693-885D28D45F8D}|Hazel\\Hazel.vcxproj|solutionrelative:Hazel\\src\\Hazel\\Core.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
+      "DocumentGroups": []
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "559a24fc-835b-4304-8d8e-88a76553f203",
+        "Display": 1,
+        "X": -4,
+        "Y": 317,
+        "Width": 728,
+        "Height": 783,
+        "WindowState": 2
+      },
       "DocumentGroups": [
         {
           "DockedWidth": 200,
@@ -27,40 +53,79 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "EntryPoint.h",
+              "DocumentMoniker": "D:\\Engine\\HazelLearnning\\Hazel\\Hazel\\src\\Hazel\\EntryPoint.h",
+              "RelativeDocumentMoniker": "Hazel\\src\\Hazel\\EntryPoint.h",
+              "ToolTip": "D:\\Engine\\HazelLearnning\\Hazel\\Hazel\\src\\Hazel\\EntryPoint.h*",
+              "RelativeToolTip": "Hazel\\src\\Hazel\\EntryPoint.h*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-07T14:05:52.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Hazel.h",
+              "DocumentMoniker": "D:\\Engine\\HazelLearnning\\Hazel\\Hazel\\src\\Hazel.h",
+              "RelativeDocumentMoniker": "Hazel\\src\\Hazel.h",
+              "ToolTip": "D:\\Engine\\HazelLearnning\\Hazel\\Hazel\\src\\Hazel.h",
+              "RelativeToolTip": "Hazel\\src\\Hazel.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-07T13:47:46.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Application.cpp",
-              "DocumentMoniker": "D:\\Engine\\HazelLearnning\\Hazel\\SandBox\\src\\Application.cpp",
-              "RelativeDocumentMoniker": "SandBox\\src\\Application.cpp",
-              "ToolTip": "D:\\Engine\\HazelLearnning\\Hazel\\SandBox\\src\\Application.cpp",
-              "RelativeToolTip": "SandBox\\src\\Application.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "DocumentMoniker": "D:\\Engine\\HazelLearnning\\Hazel\\Hazel\\src\\Hazel\\Application.cpp",
+              "RelativeDocumentMoniker": "Hazel\\src\\Hazel\\Application.cpp",
+              "ToolTip": "D:\\Engine\\HazelLearnning\\Hazel\\Hazel\\src\\Hazel\\Application.cpp",
+              "RelativeToolTip": "Hazel\\src\\Hazel\\Application.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-07T13:25:22.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Application.h",
+              "DocumentMoniker": "D:\\Engine\\HazelLearnning\\Hazel\\Hazel\\src\\Hazel\\Application.h",
+              "RelativeDocumentMoniker": "Hazel\\src\\Hazel\\Application.h",
+              "ToolTip": "D:\\Engine\\HazelLearnning\\Hazel\\Hazel\\src\\Hazel\\Application.h",
+              "RelativeToolTip": "Hazel\\src\\Hazel\\Application.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-07T13:24:53.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SandboxApp.cpp",
+              "DocumentMoniker": "D:\\Engine\\HazelLearnning\\Hazel\\SandBox\\src\\SandboxApp.cpp",
+              "RelativeDocumentMoniker": "SandBox\\src\\SandboxApp.cpp",
+              "ToolTip": "D:\\Engine\\HazelLearnning\\Hazel\\SandBox\\src\\SandboxApp.cpp",
+              "RelativeToolTip": "SandBox\\src\\SandboxApp.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-12-07T12:45:23.483Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Test.cpp",
-              "DocumentMoniker": "D:\\Engine\\HazelLearnning\\Hazel\\Hazel\\src\\Test.cpp",
-              "RelativeDocumentMoniker": "Hazel\\src\\Test.cpp",
-              "ToolTip": "D:\\Engine\\HazelLearnning\\Hazel\\Hazel\\src\\Test.cpp",
-              "RelativeToolTip": "Hazel\\src\\Test.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-12-07T12:39:56.075Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Test.h",
-              "DocumentMoniker": "D:\\Engine\\HazelLearnning\\Hazel\\Hazel\\src\\Test.h",
-              "RelativeDocumentMoniker": "Hazel\\src\\Test.h",
-              "ToolTip": "D:\\Engine\\HazelLearnning\\Hazel\\Hazel\\src\\Test.h",
-              "RelativeToolTip": "Hazel\\src\\Test.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAVAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "Core.h",
+              "DocumentMoniker": "D:\\Engine\\HazelLearnning\\Hazel\\Hazel\\src\\Hazel\\Core.h",
+              "RelativeDocumentMoniker": "Hazel\\src\\Hazel\\Core.h",
+              "ToolTip": "D:\\Engine\\HazelLearnning\\Hazel\\Hazel\\src\\Hazel\\Core.h",
+              "RelativeToolTip": "Hazel\\src\\Hazel\\Core.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-12-07T12:39:40.923Z",
+              "WhenOpened": "2024-12-07T13:23:37.849Z",
               "EditorCaption": ""
             }
           ]
