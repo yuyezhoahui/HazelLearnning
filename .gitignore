@@ -1,2 +1,5 @@
 
 /Hazel/Hazel/vendor
+*.ipch
+Hazel/.vs/Hazel/v17/ipch/AutoPCH/25b2e16c70cd0602/HAZEL.ipch
+
